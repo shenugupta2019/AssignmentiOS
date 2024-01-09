@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E4FE49C2-506D-4074-986C-877241CB6144"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bfc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 910544c34bcb4723"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 910544c34bcb4723"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "C9CE061B-8025-414C-93C7-52D6C990E1AD - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "200">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "392">
+               </Location>
+               <Location
+                  uuid = "4A247F64-A590-4237-BE57-D4839CE70DF2 - 5cee7ad79667bf86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "492">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "932">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667becc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "700">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "560">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "A88AF95A-42C2-4825-88F1-D205658C8E92 - 5cee7ad79667beed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "1048">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1453B4E9-6A0C-4F01-8C75-4B2B6674F21F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1453B4E9-6A0C-4F01-8C75-4B2B6674F21F - 5cee7ad79667bdd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+               <Location
+                  uuid = "1453B4E9-6A0C-4F01-8C75-4B2B6674F21F - 5cee7ad79667bdd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91057186-22E6-4276-93E2-1502FE7285A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91057186-22E6-4276-93E2-1502FE7285A8 - 5cee7ad79667bdd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "1608">
+               </Location>
+               <Location
+                  uuid = "91057186-22E6-4276-93E2-1502FE7285A8 - 5cee7ad79667bdd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2036">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4924DC9F-A0B4-4806-A1CD-06A51B00B718"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4924DC9F-A0B4-4806-A1CD-06A51B00B718 - 5cee7ad79667bd51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+               <Location
+                  uuid = "4924DC9F-A0B4-4806-A1CD-06A51B00B718 - 5cee7ad79667bd51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BFC424A-8323-4147-AE5B-1C2D2E6B21C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3BFC424A-8323-4147-AE5B-1C2D2E6B21C5 - 910544c34bc4b8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "3BFC424A-8323-4147-AE5B-1C2D2E6B21C5 - 910544c34bc4b8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "3BFC424A-8323-4147-AE5B-1C2D2E6B21C5 - 910544c34bc4b8bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "712">
+               </Location>
+               <Location
+                  uuid = "3BFC424A-8323-4147-AE5B-1C2D2E6B21C5 - 910544c34bc4b8fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "268">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf23"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "248">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "52EF2A5A-B93C-4FC9-8E76-DF3114628BCE - 5cee7ad79667bf61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6465C986-1DDA-4100-8C2A-F4378CF5D90E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6465C986-1DDA-4100-8C2A-F4378CF5D90E - 5cee7ad79667bd97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1856">
+               </Location>
+               <Location
+                  uuid = "6465C986-1DDA-4100-8C2A-F4378CF5D90E - 5cee7ad79667bd97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C85D842E-4718-4ACD-9C70-6DF1607459BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C85D842E-4718-4ACD-9C70-6DF1607459BC - 5cee7ad79667be8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1076">
+               </Location>
+               <Location
+                  uuid = "C85D842E-4718-4ACD-9C70-6DF1607459BC - 5cee7ad79667be8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E520A996-27C5-4C86-A359-1F92C0B2D0DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E520A996-27C5-4C86-A359-1F92C0B2D0DE - 5cee7ad79667be2b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "1416">
+               </Location>
+               <Location
+                  uuid = "E520A996-27C5-4C86-A359-1F92C0B2D0DE - 5cee7ad79667be48"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44592D61-1124-45C8-8597-FAE1D84FE4D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "44592D61-1124-45C8-8597-FAE1D84FE4D2 - 5cee7ad79667becc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "980">
+               </Location>
+               <Location
+                  uuid = "44592D61-1124-45C8-8597-FAE1D84FE4D2 - 5cee7ad79667beaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC3EE069-F061-4469-B0D0-0615EE83ADB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/List/ListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getBreweries(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AC3EE069-F061-4469-B0D0-0615EE83ADB9 - 5cee7ad79667beaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1040">
+               </Location>
+               <Location
+                  uuid = "AC3EE069-F061-4469-B0D0-0615EE83ADB9 - 5cee7ad79667beaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ViewModel.getBreweries(completion: (Swift.Bool, Swift.Optional&lt;Swift.String&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/List/ListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A6E6237-69DC-450C-976E-2718B34CC3ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/ProductTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "downloadImage(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A6E6237-69DC-450C-976E-2718B34CC3ED - d5f927cf2f78b32b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "6A6E6237-69DC-450C-976E-2718B34CC3ED - d5f927cf2f78b32b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A67752B1-6267-4BDE-B821-CB8C54DD0690"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/ProductTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "downloadImage(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A67752B1-6267-4BDE-B821-CB8C54DD0690 - d5f927cf2f78b308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "A67752B1-6267-4BDE-B821-CB8C54DD0690 - d5f927cf2f78b308"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "A67752B1-6267-4BDE-B821-CB8C54DD0690 - 8a7d55cf916b756d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC26CD68-4ED7-463E-82D3-69BC8B513060"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMRxSwiftProject/ProductTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "downloadImage(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BC26CD68-4ED7-463E-82D3-69BC8B513060 - d5f927cf2f78b369"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "772">
+               </Location>
+               <Location
+                  uuid = "BC26CD68-4ED7-463E-82D3-69BC8B513060 - 8a7d55cf916b756d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MVVMRxSwiftProject.ProductTableViewCell.downloadImage(from: Foundation.URL) -&gt; ()"
+                  moduleName = "MVVMRxSwiftProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shenugupta/Desktop/MVVMRxSwiftProject/MVVMRxSwiftProject/ProductTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

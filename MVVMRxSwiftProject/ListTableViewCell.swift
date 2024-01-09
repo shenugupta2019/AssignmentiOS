@@ -1,9 +1,8 @@
 //
-//  ProductTableViewCell.swift
-//  RxTableViewOne
+//  ListTableViewCell.swift
+//  MVVMRxSwiftProject
 //
-//  Created by Mahdi Mahjoobe on 12/10/18.
-//  Copyright © 2018 Mahdi Mahjoobe. All rights reserved.
+//  Created by Shenu Gupta on 09/01/24.
 //
 
 import UIKit

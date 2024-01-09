@@ -1,9 +1,9 @@
 //
 //  ListViewModel.swift
-//  RxSwiftMVVM
+//  ListTableViewCell.swift
+//  MVVMRxSwiftProject
 //
-//  Created by Tsubasa Hayashi on 2019/04/29.
-//  Copyright © 2019 Tsubasa Hayashi. All rights reserved.
+//  Created by Shenu Gupta on 09/01/24.
 //
 
 import UIKit
@@ -17,9 +17,7 @@ class ViewModel {
  
     var rows = BehaviorRelay<[rows]>(value: [])
     
-    func getBreweries(completion: @escaping (_ status: Bool, _ message: String?) -> Void) {
-        
-       // guard let url = getUrl("") else { return }
+    func getData(completion: @escaping (_ status: Bool, _ message: String?) -> Void) {
         
         let url = URL(string: "https://dl.dropboxusercontent.com/s/2iodh4vg0eortkl/facts.json")!
         
